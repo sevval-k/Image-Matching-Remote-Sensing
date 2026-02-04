@@ -44,3 +44,6 @@ The study investigates the performance of SIFTE feature detectors combined with 
 
 
 
+## Author
+**Şevval Köntek**
+
