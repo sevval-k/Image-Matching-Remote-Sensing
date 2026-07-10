@@ -23,6 +23,16 @@ The study investigates the performance of SIFTE feature detectors combined with 
 
 ---
 
+## Visual Results
+
+### SIFT  FLAT Keypoint Detection
+
+![SIFT-FLAT Result](images/sift-flat.png)
+
+### RANSAC Outlier Removal
+
+![SIFT-FLAT-RANSAC Result](images/sift-flat-ransac.png)
+
 ## Dataset
 - Satellite images acquired from Google Earth
 - Minimum 3-year temporal difference between image pairs
