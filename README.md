@@ -1,4 +1,4 @@
-# Image Matching Algorithms for Multi-Temporal Satellite Images
+# Multi-Temporal Satellite Image Registration Using Feature-Based Computer Vision Methods
 
 ## Overview
 This repository presents a comparative study of feature-based image matching algorithms applied to multi-temporal satellite imagery. The project evaluates classical computer vision techniques under real-world remote sensing conditions such as scale variation, rotation, resolution differences, and temporal changes.
